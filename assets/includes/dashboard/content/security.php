@@ -16,7 +16,7 @@
     <!-- Main page content-->
     <div class="container-xl px-4 mt-4">
         <!-- Account page navigation-->
-        <?php require '../../dashboard/content/profile/profile-menu.php'  ?>
+        <?php $activePage='security'; require 'profile/profile-menu.php'  ?>
         <hr class="mt-0 mb-4" />
         <div class="row">
             <div class="col-lg-8">

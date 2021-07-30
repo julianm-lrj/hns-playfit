@@ -5,6 +5,7 @@
 <meta name="author" content="" />
 <title>Play Fit - Heart n Sole Fitness</title>
 <link href="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/style.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 <link href="/css/styles.css" rel="stylesheet" />
 <link rel="icon" type="image/x-icon" href="/assets/img/favicon.png" />
 <script data-search-pseudo-elements defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js" crossorigin="anonymous"></script>

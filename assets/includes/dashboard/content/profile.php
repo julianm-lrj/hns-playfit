@@ -16,7 +16,7 @@
     <!-- Main page content-->
     <div class="container-xl px-4 mt-4">
         <!-- Account page navigation-->
-        <?php require '../../dashboard/content/profile/profile-menu.php'  ?>
+        <?php $activePage='profile'; require 'profile/profile-menu.php'  ?>
         <hr class="mt-0 mb-4" />
         <div class="row">
             <div class="col-xl-4">
@@ -25,7 +25,7 @@
                     <div class="card-header">Profile Picture</div>
                     <div class="card-body text-center">
                         <!-- Profile picture image-->
-                        <img class="img-account-profile rounded-circle mb-2" src="/assets/img/illustrations/profiles/profile-1.png" alt="" />
+                        <img class="img-account-profile rounded-circle mb-2" src="../../../../assets/img/illustrations/profiles/profile-1.png" alt="" />
                         <!-- Profile picture help block-->
                         <div class="small font-italic text-muted mb-4">JPG or PNG no larger than 5 MB</div>
                         <!-- Profile picture upload button-->

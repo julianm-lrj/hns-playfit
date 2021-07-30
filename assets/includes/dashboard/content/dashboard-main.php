@@ -57,7 +57,7 @@
                                 <h5>Pages &amp; Layouts</h5>
                                 <div class="text-muted small">To help get you started when building your new UI</div>
                             </div>
-                            <img src="/assets/img/illustrations/windows.svg" alt="..." style="width: 8rem" />
+                            <img src="../../../img/illustrations/windows.svg" alt="..." style="width: 8rem" />
                         </div>
                     </div>
                 </a>
